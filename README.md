@@ -1,5 +1,5 @@
 # Calculator
-A very basic calculator application created using Java **Swing**. 
+This i sample java application
 
 [![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
